@@ -80,8 +80,8 @@ Solar-PV-System-P-and-O-MPPT-DC-DC-Boost-Converter-MATLAB/
 │   └── PV_mppt_boost_converter_3MW.slx
 │
 ├── 02_Design_Calculations/
-│   ├── Boost_converter_Calculations.m
-│   └── Boost_converter_Calculation.pdf
+│   ├── Boost_converter_calculations.m
+│   └── Boost_converter_calculation.pdf
 │
 └── 03_Simulation_Results/
     ├── Complete_simulation_model.png
