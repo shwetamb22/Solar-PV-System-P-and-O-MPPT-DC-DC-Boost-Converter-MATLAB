@@ -45,7 +45,7 @@ PV voltage and current are measured and used by the P&O MPPT controller. The con
 | Load resistance (R) |           0.12 Ω |
 
 **Design files:**
-[MATLAB Calculation Script](02_Design_Calculations/Boost_converter_Calculations.m) [Calculation PDF](02_Design_Calculations/Boost_converter_Calculation.pdf)
+[MATLAB Calculation Script](02_Design_Calculations/Boost_converter_calculations.m) · [Calculation PDF](02_Design_Calculations/Boost_converter_calculation.pdf)
 
 ---
 
